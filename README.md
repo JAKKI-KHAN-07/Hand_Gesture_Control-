@@ -30,9 +30,8 @@ GestureImageControl/
 
 ## Installation
 
-1. Clone the repository:
-git clone https://github.com/your-username/GestureImageControl.git
-cd GestureImageControl
+1. Clone the repository: https://github.com/JAKKI-KHAN-07/Hand_Gesture_Control
+
 
 2. Install dependencies:
 pip install -r requirements.txt
